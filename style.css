@@ -79,6 +79,10 @@ body {
   justify-content: center;
 }
 
+.item-double img {
+  height: 60vh;
+}
+
 h1 {
   font-size: 48px;
   font-weight: 800;
@@ -164,6 +168,10 @@ div {
     height: 60vw;
     padding-bottom: 3vh;
     align-self: center;
+  }
+
+  .item-double img {
+    height: 30vh;
   }
 
   .item-double {
