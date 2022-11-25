@@ -128,6 +128,20 @@ div {
   margin: 3px 3px 3px 3px;
 }
 
+.StartJourneyButton {
+  margin: 1rem;
+  padding: 1rem .5rem;
+  transition: all .07s ease;
+}
+
+.StartJourneyButtonPlaying {
+  margin: 1rem;
+  padding: 1rem .5rem;
+  transform: scale(1.1);
+  border-color: black;
+  box-shadow: 0 0 5rem black;
+}
+
 /* RESPONSIVE */
 @media (max-width: 850px) {
   .item-header-left {
