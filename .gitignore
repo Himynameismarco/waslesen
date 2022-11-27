@@ -8,3 +8,4 @@
 /dataSources.local.xml
 # Exclude wav files
 *.wav
+/res/ride.wav
